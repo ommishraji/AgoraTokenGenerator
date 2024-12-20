@@ -1,0 +1,18 @@
+{
+  "name": "agora-token-generator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "agora-access-token": "^2.0.4",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "vercel": "^39.2.2"
+  }
+}
